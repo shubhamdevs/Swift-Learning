@@ -10,12 +10,14 @@
 		51A046362B56EFA9009EC9F4 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		51A046372B574095009EC9F4 /* Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		51A046382B574593009EC9F4 /* If-Else.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "If-Else.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		51A046392B574A2D009EC9F4 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		51A0462F2B56EDD9009EC9F4 = {
 			isa = PBXGroup;
 			children = (
+				51A046392B574A2D009EC9F4 /* Functions.playground */,
 				51A046382B574593009EC9F4 /* If-Else.playground */,
 				51A046372B574095009EC9F4 /* Operators.playground */,
 				51A046362B56EFA9009EC9F4 /* Variables.playground */,
